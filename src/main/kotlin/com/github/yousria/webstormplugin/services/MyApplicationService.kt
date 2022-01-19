@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yousria.webstormplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yousria.webstormplugin.MyBundle
 
 class MyApplicationService {
 
